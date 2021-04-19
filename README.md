@@ -1,6 +1,6 @@
 # Project_based_learning
 
-> **This repository includes links to *forked* repositories which hold a list of projects that could be helpful for project based learning.**
+> **This repository includes links to *forked* repositories which hold a list of projects that could be helpful for project-based learning.**
 
 * [🤓 Build your own (insert technology here)](https://github.com/Uncodedtech/build-your-own-x)
 * [📃 A list of practical projects that anyone can solve in any programming language.](https://github.com/Uncodedtech/Projects)
