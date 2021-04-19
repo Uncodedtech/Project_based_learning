@@ -12,14 +12,14 @@
 ------------------------------------------------------------------
 -----------------------------------------------
 
-## Maintainer
+### Maintainer
 
 * [Suraj Verma](https://github.com/surajv311)
 
 #### Parent repository
 * [one4All](https://github.com/Surajv311/one4All)
 
-## License
+### License
 
 * [MIT](LICENSE)
 
