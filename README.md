@@ -8,6 +8,7 @@
 * [A curated list of project tutorials for project-based learning.](https://github.com/Uncodedtech/projectlearn-project-based-learning)
 * [Data Science Articles & Projects](https://github.com/Uncodedtech/Data-science)
 * [Clone-wars: Open-source clones of popular sites](https://github.com/Uncodedtech/Clone-Wars)
+* [Curated list of project-based tutorials](https://github.com/Uncodedtech/project-based-learning)
 
 ------------------------------------------------------------------
 -----------------------------------------------
