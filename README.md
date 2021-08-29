@@ -9,6 +9,7 @@
 * [Data Science Articles & Projects](https://github.com/Uncodedtech/Data-science)
 * [Clone-wars: Open-source clones of popular sites](https://github.com/Uncodedtech/Clone-Wars)
 * [Curated list of project-based tutorials](https://github.com/Uncodedtech/project-based-learning)
+* [List of projects that provide terminal user interfaces](https://github.com/Uncodedtech/awesome-tuis)
 
 ------------------------------------------------------------------
 -----------------------------------------------
