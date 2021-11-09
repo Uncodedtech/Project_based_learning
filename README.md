@@ -10,6 +10,7 @@
 * [Clone-wars: Open-source clones of popular sites](https://github.com/Uncodedtech/Clone-Wars)
 * [Curated list of project-based tutorials](https://github.com/Uncodedtech/project-based-learning)
 * [List of projects that provide terminal user interfaces](https://github.com/Uncodedtech/awesome-tuis)
+* [List of awesome projects related to eBPF](https://github.com/Uncodedtech/awesome-ebpf)
 
 ------------------------------------------------------------------
 -----------------------------------------------
